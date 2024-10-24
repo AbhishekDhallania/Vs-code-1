@@ -1,0 +1,60 @@
+nav{
+	display: flex;
+	text-decoration: none;
+}
+ul{
+	display: flex;
+    text-decoration: none;
+	gap: 20px;
+	font-family: sans-serif;
+	list-style-type: none;
+
+}
+a{
+	text-decoration: none;
+	font-family: sans-serif;
+
+	color: black;
+}
+.first{
+	display: flex;
+}
+ h1 {
+	text-align: center;
+	font-family: sans-serif;
+	
+
+}
+p{
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+.second{
+ 	
+ 	text-align: center;
+}
+button
+{
+	height: 80px;
+	width: 100px;
+	
+}
+
+.but{
+		height: 80px;
+		width: 150px;
+}
+.list{
+	font-family: sans-serif;
+
+	text-decoration: none;
+}
+#coder{
+	font-size: 70px;
+}
+#image{
+	padding: 10px;
+}
